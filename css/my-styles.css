@@ -1,0 +1,28 @@
+.parker-columns {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.center-img {
+    display: block;
+    margin: auto;
+}
+
+.section-heading {
+    font-size: larger;
+    margin-bottom: 8px;
+}
+
+.section-item {
+    line-height: 0;
+}
+
+a:visited {
+    color: #888888;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: whitesmoke;
+}
